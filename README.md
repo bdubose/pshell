@@ -27,5 +27,8 @@
  ## Technologies?
 
 * termbox-go
+    - not maintained anymore, nsf recommends tcell
+* tcell (go)
 * ncurses
 * Blessed node
+    - couldn't get the example to work properly
